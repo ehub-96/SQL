@@ -1,0 +1,126 @@
+ID,Band Name,Genre,Country,Spotify Listeners,1st Most Listened In,1st Most Listeners ,2nd Most Listened In,2nd Most Listeners,3rd Most Listened In,3rd Most Listeners,4th Most Listened In,4th Most Listeners,5th Most Listened In,5th Most Listeners
+1,Abichova,Melodic Death Metal,Switzerland,418,?,?,?,?,?,?,?,?,?,?
+2,Adorned Brood,Folk Metal,Germany,5107,"Santiago, Chile",94,"Hamburg, Germany ",82,"Berlin, Germany",82,"Stockholm, Sweeden ",73,"Prague, Czech Republic",73
+3,Alestorm,Folk/Power Metal,United Kingdom,844394,"London, United Kingdom ",22100,"Helsinki, Finlad ",12907,"Brussels, Belgium ",12554,"Paris, France",12333,"Stockholm, Sweeden",10871
+4,Altars of Grief,Black/Funeral Doom Metal,Canada,873,"Helsinki, Finland",20,"London, United Kingdom",16,"Istanbul,Turkey",14,"Dallas, United States",14,"Chicago, United States",13
+5,Alter Bridge,Hard Rock/ Heavy Metal/Alternative Metal,United States,2053434,"London, United Kingdom ",61331,"Sao Paulo, Brazil",36525,"Santiago, Chile ",26832,"Jakarta, Indonesia",21971,"Sydney, Australia ",20969
+6,Amon Amarth,Melodic Death Metal,Sweden,1464224,"Helsinki, Finland",24711,"Stockholm, Sweeden",23158,"Mexico City, Mexico",22170,"London, United Kingdom",19324,"Berlin, Germany",18553
+7,Ancient Bards,Symphonic Power Metal,Italy,51375,"Helsinki, Finland",1063,"Santiago, Chile ",729,"Mexico City, Mexico",723,"Stockholm, Sweeden ",686,"London, United Kingdom",580
+8,Asenblut,Black/Thrash/Pagan Metal,Germany,15401,"Berlin, Germany",685,"Hamburg, Germany ",508,"Leipzig, Germany",354,"Munich, Germany",338,"Frankfurt, Germany",301
+9,Battle Beast,Heavy/Power Metal,Finland,758216,"Helsinki, Finland",97136,"Stockholm, Sweeden",23064,"Oslo, Norway",15504,"Prague, Czech Republic ",15091,"Tampere, Finland",13047
+10,Battlelore,Epic Symphonic Metal,Finland,26061,"Helsinki, Finland",1625,"Stockholm, Sweeden",543,"Berlin, Germany",395,"Istanbul, Turkey",392,"Oslo, Norway",388
+11,Bifrost,Pagan/Folk Metal,Austria,3015,"Berlin, Germany",115,"Vienna, Austria",100,"Hamburg, Germany",100,"Leipzig, Germany",89,"Munich, Germany ",84
+12,Black Messiah,Symphonic Black/Folk/Viking Metal,Germany,35610,"Berlin, Germany",1601,"Hamburg, Germany ",1472,"Munich, Germany",866,"Frankfurt, Germany",822,"Vienna, Austria ",725
+13,Blind Guardian,Power Metal,Germany,825186,"Istanbul, Turkey",24107,"Sao Paulo, Brazil",18543,"Santiago, Chile ",11346,"Hamburg, Germany ",10287,"Berlin, Germany",10269
+14,Bloodbound,Heavy/Power Metal,Sweden,335970,"Helsinki, Finland",8214,"Stockholm, Sweeden",8070,"Prague, Czech Republic",7030,"Oslo, Norway",4014,"Santiago, Chile",3972
+15,Brothers of Metal,Heavy/Power Metal,Sweden,750717,"Stockholm, Sweeden",20929,"Helsinki, Finlad ",17890,"Oslo, Norway",12509,"Prague, Czech Republic ",12271,"London, United Kingdom",11650
+16,Brymir,Symphonic/Melodic Death/Pagan Metal,Finland,55083,"Helsinki, Finland",4592,"Stockholm, Sweeden",616,"Tampere, Finland",610,"Oslo, Norway",521,"Berlin, Germany",511
+17,Burzum,"Black Metal, Ambient",Norway,185876,"Helsinki, Finland",4801,"Istanbul, Turkey",4797,"Santiago, Chile ",4018,"Mexico City, Mexico",3410,"Warsaw, Poland",3279
+18,Cernunnos,Folk Metal,Argentina,490,"Buenos Aires, Argentina ",64,"Cordoba, Argentina",33,"Santiago, Chile ",13,"Sao Paulo, Brazil",10,"Mexico City, Mexico",7
+19,Civil War,Heavy/Power Metal,Sweden,109879,"Helsinki, Finland",4241,"Stockholm, Sweeden",3959,"Prague, Czech Republic",2444,"Oslo, Norway",1782,"Gothenburg, Sweeden ",1427
+20,Craving,Melodic Death/Black Metal with Celtic folk influences,Germany,5411,"Helsinki, Finland",308,"Berlin, Germany",105,"Stockholm, Sweeden",94,"Hamburg, Germany ",88,"Prague, Czech Republic",73
+21,Cruachan,Celtic Folk/Black Metal,Ireland,42462,"Istanbul, Turkey",901,"Helsinki, Finlad ",737,"Prague, Czech Republic",713,"Warsaw, Poland ",676,"Berlin, Germany",602
+22,Dalriada,Folk Metal,Hungary,22138,"Budapest, Hungary",2428,"Warsaw, Poland",354,"Prague, Czech Republic",312,"Helsinki, Finland",273,"London, United Kingdom",219
+23,Danheim,Ambient Folk,Denmark,488463,"Istanbul, Turkey",9504,"London, United Kingdom",8228,"Berlin, Germany",7849,"Paris, France",7690,"Warsaw, Poland",6640
+24,Dark Tranquillity,Melodic Death Metal,Sweden,274088,"Helsinki, Finland",11599,"Istanbul, Turkey",10347,"Stockholm, Sweeden",7479,"Mexico City, Mexico",4612,"Ankara, Turkey",4247
+25,Dead Crown,Black Metal/Ambient,France,216,"Helsinki, Finland",5,"Mexico City, Mexico",5,"Stockholm, Sweeden",3,"San Antonio, United States",3,"Santiago, Chile",3
+26,Def Leppard,Heavy Metal,United Kingdom,6735092,"London, United Kingdom ",114405,"Mexico City, Mexico",104018,"Sydney, Australia",87269,"Santiago, Chile",85659,"Chicago, United States",84270
+27,DevilDriver,Groove/Melodic Deat,United States,441239,"London, United Kingdom ",7958,"Chicago, United States",6374,"Brisbane, Australia",6192,"Sydney, Australia",5942,"Dallas, United States",5694
+28,Diamond Head,Heavy Metal/Hard Rock,United Kingdom,244064,"London, United Kingdom ",5799,"Santiago, Chile ",4781,"Mexico City, Mexico",4752,"Sao Paulo, Brazil",4038,"Helsinki, Finland",3616
+29,Die Apokalyptischen Reiter,Death/Folk Metal,Germany,358383,"Berlin, Germany",14733,"Hamburg, Germany ",13671,"Munich, Germany",8413,"Frankfurt, Germany",7505,"Vienna, Austria ",6499
+30,Dio,Heavy Metal,United States,2980659,"Sao Paulo, Brazil",60563,"Santiago, Chile ",53914,"Helsinki, Finland",47619,"London, United Kingdom",40404,"Stockholm, Sweeden",38821
+31,DragonForce,Power Metal,United Kingdom,1822311,"Mexico City, Mexico",37595,"London, United Kingdom",33574,"Santiago, Chile ",31659,"Sao Paulo, Brazil",27330,"Los Angeles, United States",18831
+32,Dragonsifre,Melodic Heavy Metal,Germany,385,"Frankfurt, Germany",10,"London, United Kingdom",8,"Budapest, Hungary",5,"Munich, Germany",5,"Stockholm, Sweeden",5
+33,Dreamtale,Melodic Power Metal,Finland,51234,"Helsinki, Finland",4159,"Stockholm, Sweeden",1389,"Prague, Czech Republic",1041,"Oslo, Norway",717,"Hamburg, Germany",566
+34,Duskmourn,Melodic Death Metal,United States,7967,"Helsinki, Finland",460,"Stockholm, Sweeden",126,"Oslo, Norway",77,"Montreal, Canada",77,"London, United Kingdom",75
+35,Eluveitie,"Folk/Melodic Death Metal, Folk",Switzerland,656177,"Helsinki, Finland",17096,"Prague, Czech Republic",10896,"Paris, France",9761,"Istanbul, Turkey",9387,"Berlin, Germany",9083
+36,Elvenking,Melodic Power/Folk Metal,Italy,239604,"Helsinki, Finland",4757,"Prague, Czech Republic",3590,"Santiago, Chile ",3408,"Stockholm, Sweeden ",3390,"Sao Paulo, Brazil",3049
+37,Ensiferum,Epic Folk Metal,Finland,227913,"Helsinki, Finland",12012,"Mexico City, Mexico",3103,"Istanbul,Turkey",3071,"Santiago, Chile",3044,"Berlin, Germany",3023
+38,Equilibrium,Epic Folk Metal,Germany,428171,"Helsinki, Finland",12919,"Berlin, Germany",8592,"Hamburg, Germany",8117,"Stockholm, Sweeden ",7319,"Munich, Germany ",5954
+39,Falkenbach,Viking/Black/Folk Metal,Germany,32329,"Helsinki, Finland",741,"Istanbul, Turkey",701,"Santiago, Chile ",550,"Oslo, Norway",500,"Mexico City, Mexico",491
+40,Far Beyond,Symphonic Melodic Death Metal,Germany,560,"Zurich, Switzerland",14,"Helsinki, Finlad ",13,"Stockholm, Sweeden",11,"Berlin, Germany",11,"Vienna, Austria ",9
+41,Feindnah,Historic Metal,Germany,4082,"Berlin, Germany",737,"Leipzig, Germany",514,"Hamburg, Germany",340,"Dresdeb, Germany",200,"Frankfurt, Germany",185
+42,Fejd,Folk Metal,Sweden,16963,"Stockholm, Sweeden",443,"Berlin, Germany",224,"Helsinki, Finland",194,"Gothenburg, Sweden",177,"Oslo, Norway",175
+43,Finntroll,Blackened Folk Metal,Finland,133062,"Helsinki, Finland",7535,"Stockholm, Sweeden",4095,"Oslo, Norway",2737,"Santiago, Chile",1840,"Berlin, Germany",1774
+44,Finterfrost,Folk/Viking Metal,Germany,29432,"Berlin, Germany",996,"Hamburg, Germany ",875,"Helsinki, Finland",605,"Munich, Germany",497,"Leipzig, Germany",479
+45,Freedom Call,Power Metal,Germany,165114,"Stockholm, Sweeden",4548,"Prague, Czech Republic",3652,"Helsinki, Finland",3190,"Oslo, Norway",2512,"Hamburg, Germany",2376
+46,Furor Gallico,Folk Metal,Italy,25180,"Milan, Italy",1534,"Rome, Italy",803,"Turin, Italy",383,"Santiago, Chile",373,"Mexico City, Mexico",347
+47,Gallows End,Heavy Metal,Sweden,769,"Mexico City, Mexico",13,"Stockholm, Sweeden",10,"Sao Paulo, Brazil",10,"Montreal, Canada",10,"Amsterdam, Netherlands",9
+48,Garmarna,Folk Rock,Sweden,152942,"Istanbul, Turkey",11197,"Ankara, Turkey",4863,"Ismir, Turkey",2801,"Stockholm, Sweeden ",2752,"Warsaw, Poland",2074
+49,Genus Ordinis Dei,Symphonic Deat Metal/Groove/Metalcore,Italy,17263,"Helsinki, Finland",1149,"Stockholm, Sweeden",295,"Prague, Czech Republic",190,"Oslo, Norway",188,"London, United Kingdom",175
+50,Ghost,Heavy Metal/Rock,Sweden,9142151,"London, United Kingdom ",194955,"Helsinki, Finlad ",163806,"Mexico City, Mexico",159050,"Jakarta, Indonesia",130989,"Santiago, Chile",127589
+51,Gloryhammer,Symphonic Power Metal,United Kingdom,390141,"Helsinki, Finland",8103,"London, United Kingdom",7291,"Prague, Czech Republic",6942,"Stockholm, Sweeden ",6399,"Hamburg, Germany",6178
+52,Grave Digger,Heavy/Power Metal,Germany,206325,"Sao Paulo, Brazil",2940,"Berlin, Germany",2886,"Hamburg, Germany",2859,"Prague, Czech Republic ",2797,"Helsinki, Finland",2630
+53,Great Vast Forest,Black Metal,Brazil,48,"Porto Alegre, Brazil",4,"Curitiba, Brazil",3,"Recife, Brazil",2,"Belem, Brazil",2,"Vichy, France",1
+54,Grimner,Folk/Viking Metal,Sweden,24186,"Stockholm, Sweeden",1265,"Helsinki, Finlad ",1140,"Gothenburg, Sweden",462,"Oslo, Norway",419,"Berlin, Germany",374
+55,HammerFall,Heavy/Power Metal,Sweden,1144506,"Stockholm, Sweeden",37783,"Helsinki, Finlad ",29986,"Prague, Czech Republic",19238,"Oslo, Norway",17299,"Santiago, Chile",16892
+56,Heathen Foray,Melodic Death Metal,Austria,26796,"Helsinki, Finland",715,"Berlin, Germany",479,"Stockholm, Sweeden",412,"Vienna, Austria",373,"Hamburg, Germany",369
+57,Heidevolk,Folk/Viking Metal,Netherlands,94063,"Amsterdam, Netherlands",2158,"Berlin, Germany",1638,"Rotterdam, Netherlads",1616,"Hamburg, Germany ",1433,"Mexico City, Mexico",1333
+58,Heilung,Neo Folk/Euro Ethnic,"Denmark, Germany and Norway",526972,"London, United Kingdom ",9058,"Berlin, Germany",7356,"Helsinki, Finland",6155,"Stockholm, Sweeden ",5993,"Paris, France",5828
+59,Helgrindur,Pagan Metal,Germany,200,"Berlin, Germany",13,"Cologne, Germany",9,"Solingen, Germany",7,"Leipzig, Germany",7,"Essen, Germany",6
+60,Heljareyga,Folk/Progressive Metal,Faroe Islands/Denmark,343,"Sao Paulo, Brazil",7,"Mexico City, Mexico",6,"Seattle, United States",5,"Santiago, Chile",5,"Oslo, Norway",5
+61,Helloween,Power/Speed Metal,Germany,1300785,"Santiago, Chile",49066,"Mexico City, Mexico",43655,"Sao Paulo, Brazil",38060,"Helsinki, Finland",30186,"Bogota, Colombia",27694
+62,Helroth,Pagan/Folk Metal,Poland,12751,"Warsaw, Poland",1387,"Krakow, Poland",633,"Wroclaw, Poland",479,"Poznan, Poland",425,"Prague, Czech Republic",265
+63,Hindarfjäll,Neo Folk,Sweden,24735,"Stockholm, Sweeden",664,"Berlin, Germany",363,"Hamburg, Germany",347,"Oslo, Norway",327,"Helsinki, Finland",279
+64,Hjelvik,Viking/Heavy Metal,Norway,2398,"Oslo, Norway",228,"Stockholm, Sweeden",48,"Helsinki, Finland",33,"Berlin, Germany",28,"Madrid, Spain",20
+65,Human Fortress,Epic Power Metal,Germany,34461,"Stockholm, Sweeden",851,"Helsinki, Finlad ",789,"Prague, Czech Republic",662,"Sao Paulo, Brazil",604,"Santiago, Chile",518
+66,Hunde des Krieges,Historic Metal,Germany,48127,?,?,?,?,?,?,?,?,?,?
+67,Iced Earth,Power/Trash Metal,United States,324487,"Istanbul, Turkey",9866,"Sao Paulo, Brazil",7828,"Santiago, Chile ",6579,"Mexico City, Mexico",6082,"Helsinki, Finland",4663
+68,Imago Imperii,Symphonic Power Metal,Italy,46,"Milan, Italy",3,"Bologna, Italy",2,"Turin, Italy",2,"Male, Maldives",1,"Vancouver, Canada",1
+69,In Extremo,Medieval Metal/Folk Metal,Germany,367871,"Berlin, Germany",29308,"Hamburg, Germany ",27672,"Munich, Germany",17358,"Frankfurt, Germany",17048,"Leipzig, Germany",12832
+70,Ivar Bjornson & Einar Selvik,Neofolk,Norway,105432,"Istanbul, Turkey",1854,"Santiago, Chile ",1584,"London, United Kingdom",1465,"Warsaw, Poland ",1421,"Paris, France",1409
+71,Kaunan,Neo Folk,Sweden,31554,"Istanbul, Turkey",422,"Paris, France",329,"Warsaw, Poland",325,"Stockholm, Sweeden ",324,"Berlin, Germany",314
+72,King of Asgard,Viking/Melodic Death Metal,Sweden,11333,"Helsinki, Finland",302,"Stockholm, Sweeden",239,"Oslo, Norway",172,"London, United Kingdom",130,"Santiago, Chile",127
+73,Korpiklaani,Folk Metal,Finland,683177,"Helsinki, Finland",30034,"Prague, Czech Republic",13328,"Warsaw, Poland",9003,"Berlin, Germany",8477,"Santiago, Chile",8406
+74,Lass Leben,Historic Metal,Germany,24566,"Berlin, Germany",2200,"Hamburg, Germany",1558,"Leipzig, Germany",1169,"Munich, Germany",829,"Frankfurt, Germany",776
+75,Lonewolf,Speed Metal,France,7949,"Helsinki, Finland",185,"Stockholm, Sweden",126,"Prague, Czech Republic",123,"Sao Paulo, Brazil",90,"Santiago, Chile",84
+76,Lumsk,Folk Metal,Norway,10604,"Oslo, Norway",921,"Helsinki, Finland",306,"Stockholm, Sweden",234,"Istanbul, Turkey",194,"Warsaw, Poland",182
+77,Manowar,Heavy/Power Metal,United States,866009,"Helsinki, Finland",18987,"Berlin, Germany",17991,"Stockholm, Sweden",17771,"Hamburg, Germany",16647,"Istanbul, Turkey",16489
+78,Medieval Rites,Medieval Ambient/Orchestral,France,788,"Melbourne, Australi",10,"Sydney, Australia",9,"Brooklyn, United States",8,"Chicago, United States",7,"Munich, Germany",7
+79,Menhir,Pagan Black Metal,Germany,1482,"Berlin, Germany",80,"Hamburg, Germany",42,"Leipzig, Germany",40,"Frankfurt, Germany",39,"Vienna, Austria",37
+80,Mistur,Folk/Viking/Black Metal,Norway,4626,"Oslo, Norway",256,"Helsinki, Finland",215,"Stockholm, Sweden",105,"London, United Kingdom",59,"Paris, France",50
+81,My Dying Bride,Doom Metal,United Kingdom,76625,"Istanbul, Turkey",3287,"Helsinki, Finland",1654,"Santiago, Chile",1510,"Ankara, Turkey",1381,"London, United Kingdom",1283
+82,Myrkgrav,Blackened Folk/Viking Metal,Norway,19144,"Oslo, Norway",505,"Helsinki, Finland",398,"Stockholm, Sweden",362,"Santiago, Chile",274,"Warsaw, Poland",167
+83,Manegarm,Viking/Black/Folk Metal,Sweden,43834,"Stockholm, Sweden",2849,"Helsinki, Finland",1052,"Gothenburg, Sweden",1049,"Oslo, Norway",888,"Berlin, Germany",733
+84,Maerer,Black/Doom Metal,Germany,408,"Berlin, Germany",11,"Leipzig, Germany",8,"Dresden, Germany",4,"Bernburg, Germany",4,"Hamburg, Germany",3
+85,Nomans Land,Viking Metal,Russia,944,"Mexico City, Mexico",14,"Oslo, Norway",14,"Berlin, Germany",13,"Santiago, Chile",12,"Stockholm, Sweden",11
+86,Northland,Folk/Melodic Death,Spain,11092,"Helsinki, Finland",229,"Paris, France",154,"Madrid, Spain",151,"Prague, Czech Republic",140,"Stockholm, Sweden",131
+87,Nothgard,Epic Melodic Death,Germany,24166,"Helsinki, Finland",1110,"Hamburg, Germany",332,"Berlin, Germany",330,"Stockholm, Sweden",271,"Munich, Germany",264
+88,Orden Ogan,Power Metal,Germany,309844,"Helsinki, Finland",10094,"Stockholm, Sweden",6375,"Prague, Czech Republic",5653,"Hamburg, Germany",4833,"Berlin, Germany",4740
+89,Percival,Epic Heavy Metal,Argentina,508,"Warsaw, Poland",31,"Krakow, Poland",15,"Pozan, Poland",14,"Prague, Czech Republic",11,"Wroclaw, Poland",11
+90,Phönix,Historic Metal,Germany,21488,"Berlin, Germany",2555,"Leipzig, Germany",1457,"Hamburg, Germany",1280,"Frankfurt, Germany",684,"Munich, Germany",657
+91,Powerwolf,Power Metal,Germany,1264665,"Helsinki, Finland",31884,"Berlin, Germany",27908,"Hamburg, Germany",27275,"Prague, Czech Republic",27257,"London, United Kingdom",21275
+92,Prima Nocta,Neo Folk,Belgium,21382,"Mexico City, Mexico",722,"Paris, France",568,"Santiago, Chile",459,"Brussels, Belgium",445,"Madrid, Spain",309
+93,Rebellion,Heavy/Power Metal,Germany,55411,"Helsinki, Finland",1232,"Prague, Czech Republic",1226,"Stockholm, Sweden",766,"Warsaw, Poland",766,"Berlin, Germany",763
+94,Rúnahild,Folk,Norway,32442,"Berlin, Germany",350,"London, United Kingdom",350,"Warsaw, Poland",346,"Istanbul, Turkey",340,"Paris, France",331
+95,Sabaton,Power Metal/Historic Metal,Sweden,2653268,"Stockholm, Sweden",106415,"Helsinki, Finland",99344,"Oslo, Norway",46830,"London, United Kingdom",45534,"Prague, Czech Republic",44856
+96,Skjaldar,Pagan Metal,Germany,36,"Hamburg, Germany",3,"Berlin, Germany",3,"Essen, Germany",2,"Romanshorn, Switzerland",1,"Poznan, Poland",1
+97,Stormwarrior,Power Metal,Germany,46772,"Stockholm, Sweden",1102,"Helsinki, Finland",847,"Prague, Czech Republic",769,"Santiago, Chile",717,"Hamburg, Germany",476
+98,Stratovarius,Melodic Power Metal,Finland,924680,"Helsinki, Finland",53137,"Santiago, Chile",47069,"Mexico City, Mexico",32639,"Bogota, Colombia",19317,"Sao Paulo, Brazil",18660
+99,Svartsot,Folk Metal,Denmark,17894,"Helsinki, Finland",548,"Stockholm, Sweden",436,"Copenhagen, Denmark",396,"Oslo, Norway",319,"Berlin, Germany",294
+100,The Declawed,Melodic Death Metal,Finland,6,"Helsinki, Finland",7,"Kotka, Finland",2,"Stockholm, Sweden",1,"Nokia, Finland",1,"Espoo, Finland",1
+101,Thrudvangar,Viking Black Metal,Germany,2968,"Berlin, Germany",130,"Hamburg, Germany",98,"Leipzig, Germany",65,"Frankfurt, Germany",62,"Munich, Germany",58
+102,Týr,Folk Metal,Denmark/Faroe Islands,210517,"Helsinki, Finland",2832,"London, United Kingdom",2641,"Stockholm, Sweden",2635,"Oslo, Norway",2067,"Sao Paulo, Brazil",
+103,Valhalore,Epic Folk/Viking Metal,Australia,27633,"Helsinki, Finland",879,"Stockholm, Sweden",371,"Prague, Czech Republic",348,"Warsaw, Poland",346,"London, United Kingdom",318
+104,Valonkantajat,Melodic Heavy Metal,Finland,5531,"Helsinki, Finland",3028,"Tampere, Finland",336,"Turku, Finland",240,"Oulu, Finland",182,"Espoo, Finland",64
+105,Vanir,Viking/Folk Metal,Denmark,29631,"Helsinki, Finland",540,"Stockholm, Sweden",505,"Prague, Czech Republic",404,"Warsaw, Poland",377,"Berlin, Germany",354
+106,Varg,Melodic Death Metal,Germany,31819,"Berlin, Germany",1946,"Hamburg, Germany",1560,"Munich, Germany",1126,"Frankfurt, Germany",954,"Vienna, Austria",889
+107,Véhémence,Epic/Melodic Black Metal,France,5833,"Paris, France",172,"Helsinki, Finland",145,"Stockholm, Sweden",65,"London, United Kingdom",62,"Istanbul, Turkey",61
+108,Waldgeflüster,Black Metal,Germany,4883,"Berlin, Germany",241,"Munich, Germany",156,"Vienna, Austria",153,"Hamburg, Germany",124,"Leipzig, Germany",121
+109,Wardruna,Folk/Euro Ethnic,Norway,547033,"London, United Kingdom",9624,"Istanbul, Turkey",9423,"Paris, France",9232,"Warsaw, Poland",8822,"Oslo, Norway",8789
+110,Warkings,Power Metal,Germany/Austria/Switzerland,137649,"Helsinki, Finland",2663,"Prague, Czech Republic",2571,"Berlin, Germany",2505,"Hamburg, Germany",2283,"Munich, Germany",1992
+111,Warlock,Heavy Metal,Germany,460805,"Helsinki, Finland",8623,"Stockholm, Sweden",7362,"Hamburg, Germany",5174,"Prague, Czech Republic",4915,"Berlin, Germany",4763
+112,Waylander,Celtic Folk Metal,United Kingdom,12019,"Santiago, Chile",158,"Helsinki, Finland",146,"London, United Kingdom",124,"Stockholm, Sweden",124,"Paris, France",110
+113,Wilderun,Symphonic Progressive/Folk Metal,United States,16485,"Helsinki, Finland",414,"Oslo, Norway",257,"London, United Kingdom",256,"Stockholm, Sweden",211,"Amsterdam, Netherlands",207
+114,Winterstorm,Power/Folk Metal,Germany,15331,"Berlin, Germany",360,"Helsinki, Finland",334,"Hamburg, Germany",372,"Prague, Czech Republic",248,"Munich, Germany",227
+115,Wintersun,Symphonic Melodic Death Metal,Finland,220141,"Helsinki, Finland",14128,"Stockholm, Sweden",3471,"Santiago, Chile",2822,"Oslo, Norway",2776,"London, United Kingdom",2268
+116,Wisdom,Power Metal,Hungary,28285,"Helsinki, Finland",717,"Budapest, Hungary",660,"Prague, Czech Republic",567,"Stockholm, Sweden",529,"Warsaw, Poland",299
+117,Wizard,Epic Power Metal,Germany,15840,"Stockholm, Sweden",255,"Santiago, Chile",205,"Sao Paulo, Brazil",195,"Helsinki, Finland",195,"Prague, Czech Republic",185
+118,Wolfchant,Pagan/Folk Metal,Germany,22649,"Helsinki, Finland",402,"Berlin, Germany",358,"Hamburg, Germnay",307,"Santiago, Chile",266,"Munich, Germnay",260
+119,Wolfheart,Melodic Death Metal,Finland,68001,"Helsinki, Finland",4930,"Stockholm, Sweden",692,"Tampere, Finland",631,"Oslo, Norway",599,"Istanbul, Turkey",518
+120,Wulfgar,Melodic Death Metal,Finland,3251,"Mexico City, Mexico",82,"Santiago, Chile",52,"Stockholm, Sweden",45,"Helsinki, Finland",40,"Istanbul, Turkey",38
+121,Übermensch,Metalcore/Historic Metal,Germany,30936,"Berlin, Germany",4452,"Leipzig, Germany",2754,"Hamburg, Germany",2158,"Frankfurt, Germany",1293,"Munich, Germany",1272
+122,Bathory,Death Metal,Sweden,199769,"Istanbul, Turkey",4131,"Santiago, Chile",4020,"Helsinki, Finland",3793,"Sao Paulo, Brazil",3758,"Mexico City, Mexico",3411
+123,Darkthrone,Black Metal,Norway,291143,"Helsinki, Finland",7109,"Oslo, Norway",6800,"Santiago, Chile",4627,"London, United Kingdom",4159,"Stockholm, Sweden",3878
+124,Einar Selvik,Folk,Norway,180073,"Istanbul, Turkey",3528,"London, United Kingdom",2978,"Paris, France",2561,"Warsaw, Poland",2650,"Berlin, Germany",2163
+125,Thyrfing,Viking Black Metal,Sweden,17036,"Stockholm, Sweden",669,"Helsinki, Finland",611,"Oslo, Norway",296,"Gottenburg, Sweden",251,"Santiago, Chile",190
